@@ -12,7 +12,8 @@
 
 <p align="center">
   <a href="https://github.com/GabrielKH/flashmoe-app/releases/latest"><b>⬇ Download for macOS</b></a>
-  &nbsp;·&nbsp; Apple silicon · macOS 14+ · 16 GB RAM · ~26 GB free disk
+  &nbsp;·&nbsp; Apple silicon · macOS 14+ · 16 GB RAM · ~26 GB free disk<br>
+  <a href="https://huggingface.co/gabrielkh/flashmoe-Qwen3.6-35B-A3B">🤗 Hugging Face</a>
 </p>
 
 <p align="center">
