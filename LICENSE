@@ -1,0 +1,25 @@
+flashmoe End User License Agreement
+
+Copyright (c) 2026 the flashmoe developers. All rights reserved.
+
+flashmoe ("the Software") is proprietary software. It is not open source. By installing or using it, you agree to these terms.
+
+1. License. You may download, install and use the Software for free, for personal or commercial purposes, on any number of Macs you own or control.
+
+2. Restrictions. You may not:
+   a. copy, sell, rent, lease, sublicense or redistribute the Software, except for sharing the official download link;
+   b. reverse engineer, decompile, disassemble or otherwise try to extract the source code, GPU kernels, algorithms or file formats of the Software, except to the extent that applicable law expressly allows this despite this restriction;
+   c. modify the Software or create derivative works based on it;
+   d. remove or change any copyright, license or attribution notices.
+
+3. Third-party components. The Software includes open-source libraries, which are licensed to you under their own licenses (see NOTICES.md). Nothing in this agreement limits your rights under those licenses. The AI model the Software downloads (Qwen3.6-35B-A3B by the Qwen team at Alibaba Cloud) is licensed to you directly by its authors under the Apache License 2.0. Your use of the model and its outputs is governed by that license.
+
+4. Ownership. The Software is licensed, not sold. All rights not expressly granted here are reserved.
+
+5. Privacy. The Software runs locally. It contacts Hugging Face only to download the model when you ask it to, and it does not send your prompts or outputs anywhere.
+
+6. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. AI models can produce inaccurate or inappropriate output. You are responsible for how you use it.
+
+7. Limitation of liability. TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+8. Termination. This license ends automatically if you break its terms. When it ends, you must stop using and delete the Software.
